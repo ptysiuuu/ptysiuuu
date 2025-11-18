@@ -1,5 +1,5 @@
 ## Hi I'm Adam 💥
-[My Portfolio](https://my-portfolio-nine-ashen-33.vercel.app/)
+[My Portfolio](https://aszostek.com)
 # 💫 About Me:
 👉 Computer science student at the Warsaw University of Technology<br>🧠 Member of the Artificial Intelligence Research Club<br>🤍 I am passionate about machine learning, data science and software development
 
